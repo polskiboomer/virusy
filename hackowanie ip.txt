@@ -1,0 +1,4 @@
+cd ..\..
+cd ..\windows
+net view \\ip
+net use X: \\ip\AppData
